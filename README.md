@@ -10,7 +10,7 @@ It covers:
 
 - Temporal Difference (TD) learning
 
--Random walk simulations
+Random walk simulations
 
 - LunarLander training (OpenAI Gym)
 
@@ -35,7 +35,7 @@ The LunarLander integration showcases RL agents learning to control a physics-ba
 - results/	Plots, learning curves, and screenshots
 
 - requirements.txt	Python dependencies
-- 
+ 
 🛠 Installation & Setup
 
 1. Clone the repository:
@@ -62,8 +62,11 @@ Classic RL Scripts
 Run MC, TD or random walk simulations:
 
 python monte_carlo.py
+
 python td_prediction.py
+
 python random_walk.py
+
 LunarLander Training
 
 Train an agent in the LunarLander environment:
@@ -127,8 +130,13 @@ For simulations:
 By completing this project, you demonstrate:
 
 ✔ Understanding of core RL algorithms (MC, TD)
+
 ✔ Implementing RL agents from scratch
+
 ✔ Training agents in real environments (LunarLander)
+
 ✔ Analysing learning performance and convergence
+
 ✔ Bridging theory with practical applications
+
 
