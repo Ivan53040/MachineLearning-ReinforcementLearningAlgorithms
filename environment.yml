@@ -1,0 +1,20 @@
+name: DQN2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - tqdm
+  - seaborn
+  - scikit-learn
+  - gymnasium
+  - gymnasium-box2d
+  - pygame
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip:
+      - gymnasium[classic-control]
