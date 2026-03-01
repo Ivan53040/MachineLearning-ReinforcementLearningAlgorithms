@@ -79,46 +79,48 @@ Jupyter Notebooks
 Open notebooks for interactive demonstrations:
 
 jupyter notebook
+
 🔍 Algorithms Implemented
+
 🔹 Monte Carlo Prediction
 
-Learns state values using complete episodes
+- Learns state values using complete episodes
 
-Estimates value function by averaging returns
+- Estimates value function by averaging returns
 
 🔹 Temporal Difference (TD) Prediction
 
-Learns value function step-by-step
+- Learns value function step-by-step
 
-Combines ideas from MC and dynamic programming
+- Combines ideas from MC and dynamic programming
 
 🔹 Random Walk
 
-Simple environment illustrating value updates and convergence
+- Simple environment illustrating value updates and convergence
 
 🔹 LunarLander Agent Training
 
-RL agent interacts with the LunarLander environment from OpenAI Gym
+- RL agent interacts with the LunarLander environment from OpenAI Gym
 
-Learns to control landing using reward feedback
+- Learns to control landing using reward feedback
 
-Demonstrates applied reinforcement learning in a physics-based simulation
+- Demonstrates applied reinforcement learning in a physics-based simulation
 
 📊 Results & Visualisations
 
 For LunarLander:
 
-Plot cumulative reward vs. episodes
+- Plot cumulative reward vs. episodes
 
-Optionally save videos of agent performance
+- Optionally save videos of agent performance
 
-Compare learning curves for different hyperparameters
+- Compare learning curves for different hyperparameters
 
 For simulations:
 
-Plot value functions for MC vs TD learning
+- Plot value functions for MC vs TD learning
 
-Compare predicted vs. true state values
+- Compare predicted vs. true state values
 
 🎯 Learning Outcomes
 
@@ -129,3 +131,4 @@ By completing this project, you demonstrate:
 ✔ Training agents in real environments (LunarLander)
 ✔ Analysing learning performance and convergence
 ✔ Bridging theory with practical applications
+
